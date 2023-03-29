@@ -20,4 +20,6 @@ This contains implementations of the architecture of the transformer following t
 
 - [Python File](transformers/transformer.py)
 
+![Model Architecture](../data/transformer_arch.png)
+
 ---
