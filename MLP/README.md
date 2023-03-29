@@ -44,3 +44,14 @@ Implementation of batch normalization into a two layer MLP and a six layer MLP, 
 Implementation of the calculations/derivatives of the gradients for each parameter used in backpropagation similar to the results of **loss.backward() from PyTorch**. And backpropagating through exactly all of the variables as they are defined in the forward pass.
 
 - [Notebook](MLP/back_propagation.ipynb)
+
+---
+
+**Implementation of a MLP following the Wavenet architecture**
+
+Implementation of the paper "WaveNet: A Generative Model for Raw Audio" an auto-regressive model that predicts audio sequences.
+
+- Paper link: https://arxiv.org/abs/1609.03499
+- The notebook also implements the Linear, Flatten, Embedding, Tanh, Sequential and Batch normalization classes from PyTorch.
+
+- [Notebook](MLP/wavenet.ipynb)
