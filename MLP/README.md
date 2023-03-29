@@ -55,3 +55,5 @@ Implementation of the paper "WaveNet: A Generative Model for Raw Audio" an auto-
 - The notebook also implements the Linear, Flatten, Embedding, Tanh, Sequential and Batch normalization classes from PyTorch.
 
 - [Notebook](MLP/wavenet.ipynb)
+
+Resources Credit: [Andrej Karpathy](https://www.youtube.com/watch?v=VMj-3S1tku0&list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)

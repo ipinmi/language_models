@@ -1,2 +1,3 @@
-# nlp
-A repository of Natural Language Processing related projects. 
+# Natural Language Processing
+
+A repository of Natural Language Processing related projects.
